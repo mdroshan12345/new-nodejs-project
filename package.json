@@ -4,8 +4,5 @@
   "main": "nodejs-file",
   "scripts": {
     "sonar": "sonar-scanner"
-  }, 
-  "devDependencies": {
-    "sonarqube-scanner":"2.17.1"
-  }
+  },   
 }
