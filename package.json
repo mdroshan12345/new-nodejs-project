@@ -1,0 +1,11 @@
+{
+  "name": "new-nodejs-project",
+  "version": "1.0.0", 
+  "main": "nodejs-file",
+  "scripts": {
+    "sonar": "sonar-scanner"
+  }, 
+  "devDependencies": {
+    "sonarqube-scanner":"2.17.1"
+  }
+}
