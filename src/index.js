@@ -4,10 +4,6 @@ http.createServer(function (req, res) {
     // Send the HTTP header 
     // HTTP Status: 200 : OK
     // Content Type: text/plain
-function Main(,y){
-console.log(x,y);
-}
-Main('xxx','yyy')
     
     res.writeHead(200, {'Content-Type': 'text/plain'});
     
