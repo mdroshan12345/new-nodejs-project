@@ -4,7 +4,7 @@ http.createServer(function (req, res) {
     // Send the HTTP header 
     // HTTP Status: 200 : OK
     // Content Type: text/plain
-function Main(x,y){
+function Main(,y){
 console.log(x,y);
 }
 Main('xxx','yyy')
