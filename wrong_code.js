@@ -19,12 +19,12 @@ module.exports = {
 
 class HelloWorld {
   constructor(options) {
-      this.options = options || {};
+      this.= options || {};
       this._greeting = this.options.greeting || 'Hello World!';
   }
 
   get greeting() {
-    return this._greeting;
+    return this._;
   }
 
   set greeting( message ) {
