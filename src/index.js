@@ -12,4 +12,4 @@ http.createServer(function (req, res) {
  
  // This message will be printed in the console
  console.log('Server is running live at http://127.0.0.1:8000/');
- console.log('node js hello world'
+ console.log('node js hello world');
