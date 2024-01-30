@@ -5,11 +5,6 @@ http.createServer(function (req, res) {
     // HTTP Status: 200 : OK
     // Content Type: text/plain
 
-    function Main(x,y){
-        console.log(x,y);
-        }
-        Main('','yyy')
-    
     res.writeHead(200, {'Content-Type': 'text/plain'});
     
     // Send the response body as "Hello, World !!!"
